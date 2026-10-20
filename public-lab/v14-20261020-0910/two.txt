@@ -1,0 +1,3 @@
+# CloudKey Guard synthetic nonfunctional test fixture
+# Not issued by any service. Grants no access.
+client_secret="CKG_SYNTHETIC_NO_ACCESS_9172bC3d4E5f60718ab9"
