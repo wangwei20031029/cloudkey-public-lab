@@ -1,0 +1,4 @@
+# CloudKey Guard controlled synthetic fixture. No account or permission is attached.
+# Fixture n2-3; no literal credential value.
+sha256 = "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+request_id = "LAB_REQUEST_2_20261021"
