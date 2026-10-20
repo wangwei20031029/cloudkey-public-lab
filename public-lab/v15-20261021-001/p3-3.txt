@@ -1,0 +1,3 @@
+# CloudKey Guard controlled synthetic fixture. No account or permission is attached.
+# Fixture p3-3; shape observation only.
+database_url = "postgresql://lab:CKG_NO_ACCESS_b41e4593ed4890d2acc3@db.invalid/demo"
