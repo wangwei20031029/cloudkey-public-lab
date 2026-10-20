@@ -1,0 +1,3 @@
+# CloudKey Guard controlled synthetic fixture. No account or permission is attached.
+# Fixture p2-4; shape observation only.
+linux_password = "CKG_NO_ACCESS_1fc47ed2dd4977a211ea"
