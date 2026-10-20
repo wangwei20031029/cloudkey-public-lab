@@ -1,0 +1,5 @@
+# CloudKey Guard controlled synthetic fixture. No account or permission is attached.
+# Fixture p1-6; shape observation only.
+-----BEGIN RSA PRIVATE KEY-----
+NOTAREALKEY030bda20a4a71a821bbcNOTAREALKEY030bda20a4a71a821bbc
+-----END RSA PRIVATE KEY-----
