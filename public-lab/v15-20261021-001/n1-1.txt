@@ -1,0 +1,3 @@
+# CloudKey Guard controlled synthetic fixture. No account or permission is attached.
+# Fixture n1-1; no literal credential value.
+api_key = "${LAB_API_KEY}"
