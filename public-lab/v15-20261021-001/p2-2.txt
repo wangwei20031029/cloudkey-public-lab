@@ -1,0 +1,3 @@
+# CloudKey Guard controlled synthetic fixture. No account or permission is attached.
+# Fixture p2-2; shape observation only.
+{"client_secret": "CKG_NO_ACCESS_f199bc63fcf846b05429"}
