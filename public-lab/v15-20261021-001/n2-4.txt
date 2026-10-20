@@ -1,0 +1,3 @@
+# CloudKey Guard controlled synthetic fixture. No account or permission is attached.
+# Fixture n2-4; no literal credential value.
+{"api_key": null, "db_password": "redacted", "deleted": true}
