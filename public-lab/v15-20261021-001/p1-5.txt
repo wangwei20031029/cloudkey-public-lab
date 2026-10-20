@@ -1,0 +1,3 @@
+# CloudKey Guard controlled synthetic fixture. No account or permission is attached.
+# Fixture p1-5; shape observation only.
+aws_secret_access_key = "CKGNOACCESS77b09e338c99109af35677b09e338"
