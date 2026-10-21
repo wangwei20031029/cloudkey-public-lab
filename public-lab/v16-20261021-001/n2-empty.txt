@@ -1,0 +1,2 @@
+# SYNTHETIC NEGATIVE
+client_secret=""
